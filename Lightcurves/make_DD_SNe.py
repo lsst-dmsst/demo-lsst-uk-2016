@@ -24,8 +24,8 @@ except:
 if __name__ == '__main__':
 
     # Twinkles: RA 53.01, Dec -27.44
-    raRange = (60.0, 65.0)
-    decRange = (-15.0, -12.0)
+    raRange = (52.0, 54.5)
+    decRange = (-28.5, -26.5)
     bandpass = ('u', 'g', 'r', 'i', 'z')
     opsimdb_filename = "minion_1016_sqlite.db"
 
