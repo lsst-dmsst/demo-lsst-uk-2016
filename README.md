@@ -10,3 +10,4 @@ The code for two sessions of demos are in:
 * ProcessCcd -- Using the LSST stack to process one DECam image to obtain a
   calibrated image and a catalog of detected objects.
 
+Slides for the talk "Getting Started with LSST" by Jonathan Sick are available at https://doi.org/10.5281/zenodo.200418.
