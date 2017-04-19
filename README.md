@@ -1,6 +1,6 @@
 
-LSST Demos for Viña del Mar 2016
-================================
+LSST Demos for LSST:UK 2017
+===========================
 
 The code for two sessions of demos are in:
 
